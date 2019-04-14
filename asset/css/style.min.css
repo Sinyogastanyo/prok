@@ -1,0 +1,423 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.cntainer{
+	margin-left: 57px;
+	margin-right: 57px;
+}
+#top{
+	width: 100%;
+	height: 200px;
+}
+.left{
+	width: 100px;
+	height: 100px;
+	margin: auto;
+	margin-top: 15px;
+	border: 1px solid#bbb;
+	background: #bbb;
+	border-radius: 50%;
+}
+.left img {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.right{
+	width: 100px;
+	height: 100px;
+	border: 1px solid#bbb;
+	background: #00f;
+	margin: auto;
+	margin-top: 15px;
+	border-radius: 50%;
+}
+.list{
+	width: 100%;
+	height: 80%;
+}
+.list2{
+	width: 100%;
+	height: 80%;
+}
+.long{
+	width: 20%;
+	height: 50%;
+	float: left;
+}
+.long h1{
+	font-size: 30px;
+	margin-left: 35px;
+}
+.text-caption {
+    width: 75%;
+    margin-top: 30px;
+    height: 3px;
+    margin-left: 0px;
+    background: #ff0040;
+    float: left;
+}
+
+.long1{
+	width: 20%;
+	height: 50%;
+	float: left;
+}
+.long1 h1{
+	font-size: 30px;
+	margin-top: 8px;
+	color: #ff0040;
+	margin-left: 35px;
+}
+.text-caption1 {
+    width: 75%;
+    margin-top: 30px;
+    height: 3px;
+    margin-left: -150px;
+    background: #ff0040;
+    float: left;
+}
+.right img{
+	width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.tre2{
+	margin: auto;
+	margin-top: 30px;
+	width: 80%;
+	border-top: 10px solid#00ff40;
+}
+.tre{
+	margin: auto;
+	margin-top: 15px;
+	width: 80%;
+	border-top: 10px solid#00ff40;
+}
+.tre1{
+	margin: auto;
+	margin: 0px 0px;
+	width: 100%;
+	border-top: 10px solid#00ff40;
+}
+.text{
+	width: 60%;
+	margin: auto;
+	margin-top: 0px;
+	font-size: 35px;
+	text-align: center;
+}
+.text1{
+	width: 80%;
+	margin: auto;
+	height: 20px;
+}
+.box{
+	width: calc(100% /7);
+	height: 20px;
+	margin-top: 15px;
+	float: left;
+}
+.box a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #000;
+}
+.caption{
+	width: 100%;
+	height: 500px
+}
+
+.caption1{
+	width: 100%;
+	height: 500px;
+}
+.paren{
+	width: 100%;
+	height: 80%;
+	background: #bbb;
+}
+.warpper img{
+	width: 100%;
+	height: 79%;
+}
+
+.peren{
+	width: 100%;
+	height: 100%;
+	background: #bbb;
+}
+.box-left{
+	width: 73%;
+	height: 480px;
+	background: #bbb;
+	float: left;
+}
+.box-right{
+	width: 25%;
+	margin-left: 15px;
+	height: 480px;
+	float: left;
+}
+.box-top{
+	width: 100%;
+	background: #bbb;
+	height: 47%;
+
+}
+.box-bottom{
+	width: 100%;
+	background: #bbb;
+	margin-top: 6%;
+	height: 49%;
+}
+.box-top a{
+	text-decoration: none;
+	list-style: none;
+	color: #00f;
+}
+
+.box-bottom a{
+	text-decoration: none;
+	list-style: none;
+	color: #00f;
+}
+.box-top img{
+	width: 100%;
+	font-size: 26px;
+	text-align: center;
+	padding-top: -3px;
+}
+.box-bottom h1{
+	font-size: 26px;
+	text-align: center;
+	padding-top: 50px;
+}
+.info{
+	width: 100%;
+	height: 100px;
+}
+.box-info{
+	width: 100%;
+	height: 90px;
+	background: #bbb;
+	margin-top: 0px;
+}
+.publlic{
+	width: 100%;
+	height: 100px;
+}
+.pelayanan{
+	width: 60%;
+	height: 30%;
+	margin: auto;
+}
+.box-info h1{
+	font-size: 35px;
+    padding-top: 15px;
+    margin-left: 40px;
+    color: #eee;
+}
+.colom{
+	width: 100%;
+	height: 80%;
+	background: #bbb;
+}
+.colom img{
+	width: 100%;
+	height: 100%;
+}
+.colom p{
+	font-size: 16px;
+	color: #fff;
+	margin-top: -55px;
+	margin-left: 10px;
+}
+.pelayanan h1{
+	font-size: 32px;
+	padding-top: 30px;
+	text-align: center;
+	color: #000;
+}
+.from{
+	width: 100%;
+	height: 711px;
+}
+.surat{
+	width: 100%;
+	height: 600px;
+}
+.title{
+	width: 100%;
+	height: 110px;
+	background: #0080ff;
+}
+.warpper{
+	width: 100%;
+	height: 100%;
+}
+.title h1{
+	width: 60%;
+	height: 100%;
+	font-size: 40px;
+	padding-top: 15px;
+	text-align: center;
+	color: #00ffbf;
+	margin: auto;
+}
+.left-top{
+	width: 20%;
+	background: #0080ff;
+	height: 100%;
+	float: left;
+}
+.wrapper{
+	position: relative;
+}
+
+.right-top{
+	width: 80%;
+	background: #0080ff;
+	height: 100%;
+	float: left;
+}
+#wrapper input {
+    width: 90%;
+    margin: 15px 0px;
+    height: 45px;
+}
+#wrapper-list1 input{
+    width: 45%;
+    margin: 15px 0px;
+    height: 45px;
+}
+
+#wrapper-list input{
+    width: 90%;
+    margin: 15px 0px;
+    height: 250px;
+}
+.from1{
+	width: 100%;
+    margin: 24px 0px;
+    height: 45px;
+}
+.from1 h1{
+	font-size: 28px;
+	margin-top: 10px;
+	text-align: center;
+
+}
+.box-box{
+	width: calc(100% /2);
+	height: 100%;
+	background:#bbb;
+	float: left;
+}
+.potensi{
+	width: 100%;
+	height: 310px;
+}
+.pelayanan1 h1{
+	font-size: 35px;
+	padding-top: 30px;
+	text-align: center;
+	color: #ff0040;
+}
+.informasi{
+	width: 100%;
+	height: 465px;
+
+}
+
+.box-top1{
+	width: 100%;
+	margin-top: -20px;
+	background: #0000b3;
+	height: 100%;
+}
+
+.box-left1{
+	width: calc(79% /2);
+	height: 350px;
+	background: #bbb;
+	float: left;
+}
+.box-left1 img {
+    width: 200%;
+    margin-left: 27px;
+    height: 233px;
+}
+.click h1{
+	font-size: 20px;
+	margin-top: 12px;
+	text-align: center;
+}
+.box-right1{
+	width: 19%;
+	margin-top: -8px;
+	margin-left: 15px;
+	height: 350px;
+	float: left;
+}
+.click {
+    width: 80px;
+    top: 29px;
+    right: 15px;
+    background: #ccffcc;
+    height: 47px;
+    position: absolute;
+}
+
+#wrapper1 input {
+    width: 75%;
+    font-size: 16px;
+    text-align: center;
+    margin: 30px 25px;
+    height: 45px;
+}
+@media (min-width: 768px) and (max-width: 1199.98px) 
+	{.potensi{
+	width: 100%;
+	height: 480px;
+
+	}}
+
+@media (min-width: 768px) and (max-width: 1199.98px){.section{
+	width: 80%;
+	height: 100%;
+	margin: auto;
+	}}
+@media (min-width: 768px) and (max-width: 1199.98px){.card{
+		width: 20rem;
+	    background: #bbb;
+	    height: 200px;
+	    margin: 7px 0px;
+	    float: left;
+		}}
+@media (min-width: 768px) and (max-width: 1199.98px){.text-caption1 {
+    width: 75%;
+    margin-top: 30px;
+    height: 3px;
+    margin-left: -100px;
+    background: #ff0040;
+    float: left
+	}}
+
+}
+@media (min-width: 768px) and (max-width: 1199.98px){.caption{
+    width: 100%;
+    height: 540px;
+    }}
+}
+
+
+@media (min-width: 768px) and (max-width: 1199.98px){}
+
+@media (min-width: 768px) and (max-width: 1199.98px){}
+
+@media (min-width: 768px) and (max-width: 1199.98px){}
+
+@media (min-width: 768px) and (max-width: 1199.98px){}
+
